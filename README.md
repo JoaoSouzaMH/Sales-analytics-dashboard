@@ -47,7 +47,6 @@ sales-analytics-dashboard/
 
 ## 📈 Dashboard
 
-(images/dashboard_final.png)
 <img width="969" height="544" alt="dashboard" src="https://github.com/user-attachments/assets/98fc07cb-86f6-4f79-9a00-cccf3e0fb7b2" />
 
 ## 🗄️ Modelo Relacional
