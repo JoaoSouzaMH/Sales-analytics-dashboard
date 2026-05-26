@@ -1,3 +1,4 @@
+<img width="969" height="544" alt="dashboard" src="https://github.com/user-attachments/assets/c383ea1b-5564-4f93-80de-b8775b84dcac" />
 # 📊 Sales Analytics Dashboard
 
 Projeto de análise de vendas desenvolvido utilizando Python, MySQL, SQL e Power BI, com foco em construção de pipeline de dados, modelagem relacional e criação de dashboards analíticos.
