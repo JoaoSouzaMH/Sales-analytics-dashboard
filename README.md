@@ -77,4 +77,10 @@ Dataset original utilizado no projeto:
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 Na pasta data foram disponibilizadas apenas amostras dos datasets para fins de demonstração e organização do projeto.
+```
+<img width="912" height="553" alt="relacionamento" src="https://github.com/user-attachments/assets/9bb0eb29-11f0-4572-9ffa-acab87debcd9" />
+<img width="969" height="544" alt="dashboard" src="https://github.com/user-attachments/assets/10b274e4-7754-4c5b-a83e-215b5073e6d1" />
+
+
+
 
